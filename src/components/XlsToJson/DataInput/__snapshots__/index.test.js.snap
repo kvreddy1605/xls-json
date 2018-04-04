@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DataInput Component Test SnapShot Test 1`] = `
+<div
+  className="dataInput-container"
+>
+  <form>
+    <label>
+      Browse a file with type xls or csv.
+    </label>
+     
+    <br />
+    <input
+      accept=".xls, .xlsx, .csv, .xlsb, .xlsm"
+      id="file"
+      onChange={[Function]}
+      type="file"
+    />
+  </form>
+</div>
+`;

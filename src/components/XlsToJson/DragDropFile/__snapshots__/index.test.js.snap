@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DragDropFile Component Test SnapShot Test 1`] = `
+<div
+  className="dragDropFile-container"
+  onDragEnter={[Function]}
+  onDragOver={[Function]}
+  onDrop={[Function]}
+/>
+`;
